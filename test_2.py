@@ -18,3 +18,25 @@ The program will display the number of grades.
 The program wil display the average grade total. 
 """
 
+"""
+# def 1  - calculate_percent_above_average() function
+    count = 0
+    grade in grades:
+        if grade > avg:
+    return (count * 100)
+
+# def 2 - main(): 
+    open final.txt
+    grades = []
+    
+    print number of grades 
+    avg = 0
+    avg /= len(grades)
+
+    print average grade
+    print percentage of grades above average 
+    close()
+
+main()
+
+"""
